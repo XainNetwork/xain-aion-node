@@ -1,4 +1,4 @@
-# xain-aion-node
+# XAIN NODE IN THE AION ECOSYSTEM
 Xain is a Cross Blockchain verify standard designed to bring transparency to the industrial chain supply.
 
 Access to trustworthy information about origin, journey, the source of their ingredients or their impact on environment and society will become indispensable for retailers.
